@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "check-nav",
+    "slug": "check-nav",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "check-nav"
+}
